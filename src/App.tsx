@@ -1,10 +1,10 @@
 import React from "react";
-import { ContactPage } from "./ContactPage";
+import { FormPage } from "./FormPage";
 
 const App: React.FC = () => {
   return (
     <React.Fragment>
-      <ContactPage />
+      <FormPage />
     </React.Fragment>
   );
 };
